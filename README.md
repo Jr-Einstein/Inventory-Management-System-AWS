@@ -77,18 +77,21 @@
 
 ## 🔄 Data Flow Diagram
 
-> [→ View Full Data Flow on DrawSQL](https://drawsql.app/your-team/diagrams/amstock-data-model)
+> [→ View Full Data Flow on DrawSQL](https://drawsql.app/teams/aman-51/diagrams/amstock-inventory-management-system-aws)
 
-![image](https://github.com/user-attachments/assets/fbdf7463-1cdb-42d7-836d-ee744a1f2b53)
+![image](https://github.com/user-attachments/assets/d13969dc-fa51-410a-8bdd-7f2dd3b32f92)
+
 
 
 ---
 
 ## ☁️ AWS Architecture Diagram
 
-> [→ View AWS Architecture Diagram on Lucidchart](https://lucid.app/lucidchart/edfdfa57-5d01-429a-b365-f69de0cd8fe1/edit?invitationId=inv_2138dc74-5c10-4dcd-bd63-9acc07a0abe2&page=0_0)
+> [→ View AWS Architecture Diagram on Lucidchart](https://lucid.app/lucidchart/c3268d1a-f332-4741-bae0-32ae40d67249/edit?viewport_loc=589%2C-298%2C2944%2C1287%2C0_0&invitationId=inv_8425f668-4648-4a1d-ac50-0c5611aa6ee9)
 
-![image](https://github.com/user-attachments/assets/c39351e9-ced9-4024-80c3-3655b8b7c017)
+
+![image](https://github.com/user-attachments/assets/5aa7910e-9abc-46c5-a073-660b1df25b97)
+
 
 
 ---
